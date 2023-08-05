@@ -5,7 +5,7 @@
       This is a To-do App, i created it after watching Danny's Youtube Channel
     </p>
     <p>
-      <a href="#">
+      <a href="https://github.com/HyuuuRiie/yu-todo">
         <v-btn tile 
         color="primary"> source code </v-btn>
       </a>
